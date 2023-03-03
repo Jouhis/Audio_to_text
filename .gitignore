@@ -1,4 +1,5 @@
-.mp3
-.mp4
-.png
-.txt
+*.mp3
+*.mp4
+*.png
+*.txt
+OPENAI_API_KEY

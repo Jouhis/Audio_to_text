@@ -1,0 +1,10 @@
+openai-whisper
+tqdm
+torch
+m3u8_To_MP4
+pytube
+scikit-learn
+seaborn
+matplotlib
+openai
+sentence_transformers
